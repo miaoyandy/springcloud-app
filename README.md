@@ -45,7 +45,11 @@
 - 4.启动rabbitmq
 - 5.启动注册中心springcloud-app-eureka 访问端口1001
 - 6.启动配置中心springcloud-app-config
+
 - 7.将https://github.com/vmaps3/admin-ui 放入springcloud-app-zuul\src\main\resources\ 更改对应include.js
+
+- 7.将https://gitee.com/vmaps/app-ui放入springcloud-app-zuul\src\main\resources\static\html 更改对应include.js
+
 - 8.启动路由中心springcloud-app-zuul
 - 9.启动服务中心springcloud-app-system
 - 10.启动调度中心springcloud-app-schedule
@@ -56,4 +60,8 @@
 
 ## qq交流群
 
+
 - 74745979
+
+- 74745979
+
